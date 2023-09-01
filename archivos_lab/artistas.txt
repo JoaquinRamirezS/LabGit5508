@@ -3,4 +3,4 @@ Joji (Asly)
 Melanie Martinez (Asly - Segundo artistas)
 The neighbourhood (Asly - segundo artista en el repositorio remoto)
 Lana del Rey (Joaquín-segundo artista en el repositorio remoto)
-
+Kali Uchis (Artista agregado en el branch Development)
